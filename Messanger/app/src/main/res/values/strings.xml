@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Messanger</string>
+
+    <string name="menu1">Topics</string>
+    <string name="menu2">Add</string>
+    <string name="menu3">Profile</string>
+    <string name="menu4">Chat</string>
+
+    <string name="write">Write..</string>
+</resources>

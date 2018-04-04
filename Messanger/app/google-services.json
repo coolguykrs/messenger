@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "842192744399",
+    "firebase_url": "https://messanger-4b2ee.firebaseio.com",
+    "project_id": "messanger-4b2ee",
+    "storage_bucket": "messanger-4b2ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842192744399:android:adf200197c83cd34",
+        "android_client_info": {
+          "package_name": "ee.ttu.messanger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842192744399-5tn2mqml93ams92vuqma698i3a19v3m8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ee.ttu.messanger",
+            "certificate_hash": "a02af63ce8de387928d92682713ea3c398232921"
+          }
+        },
+        {
+          "client_id": "842192744399-l77bunk60rhie5tuert1idmdiuc2j4jg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUVonljRlVPOyFhWu-Z_TnahRtbGfK2ZA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842192744399-l77bunk60rhie5tuert1idmdiuc2j4jg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
